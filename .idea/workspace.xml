@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23ccf3a9-9b24-4017-a098-4216827b9a5d" name="Default Changelist" comment="" />
+    <list default="true" id="23ccf3a9-9b24-4017-a098-4216827b9a5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/leyou/es/test/ElasticAsyncDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,38 +21,68 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="9" />
+          <entry key="java" value="11" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="11" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3863" />
+          <entry key="dummy" value="26" />
+          <entry key="java" value="4177" />
           <entry key="xml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3863" />
+          <entry key="JAVA" value="4177" />
+          <entry key="PLAIN_TEXT" value="26" />
           <entry key="XML" value="5" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/leyou/es/test/ElasticDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1186">
+              <caret line="366" column="9" lean-forward="true" selection-start-line="228" selection-start-column="4" selection-end-line="366" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/leyou/es/test/ElasticAsyncDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+              <folding>
+                <element signature="e#3720#3721#0" expanded="true" />
+                <element signature="e#3771#3772#0" expanded="true" />
+                <element signature="e#5467#5468#0" expanded="true" />
+                <element signature="e#5518#5519#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,6 +90,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -65,6 +103,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/leyou/es/entity/ElasticConstants.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/leyou/es/test/ElasticDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/leyou/es/test/ElasticAsyncDemo.java" />
       </list>
     </option>
   </component>
@@ -116,8 +155,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -134,36 +171,6 @@
               <item name="ElasticsearchDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="ElasticsearchDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ElasticsearchDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ElasticsearchDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ElasticsearchDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ElasticsearchDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ElasticsearchDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ElasticsearchDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-              <item name="ElasticConstants" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="ElasticsearchDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ElasticsearchDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -180,6 +187,15 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ElasticsearchDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ElasticsearchDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="ElasticAsyncDemo" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="ElasticsearchDemo" type="b2602c69:ProjectViewProjectNode" />
@@ -287,12 +303,15 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608101825927" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608106410939" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -300,6 +319,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.leyou.es.test" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -313,8 +337,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ElasticDemo.testSuggest">
-    <configuration name="ElasticDemo.testAggs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ElasticAsyncDemo.testSearch">
+    <configuration name="ElasticAsyncDemo.testGetDocument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ElasticsearchDemo" />
       <extension name="coverage">
         <pattern>
@@ -323,8 +347,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.leyou.es.test" />
-      <option name="MAIN_CLASS_NAME" value="com.leyou.es.test.ElasticDemo" />
-      <option name="METHOD_NAME" value="testAggs" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.es.test.ElasticAsyncDemo" />
+      <option name="METHOD_NAME" value="testGetDocument" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticAsyncDemo.testSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ElasticsearchDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.es.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.es.test" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.es.test.ElasticAsyncDemo" />
+      <option name="METHOD_NAME" value="testSearch" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -362,22 +402,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ElasticDemo.testSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ElasticsearchDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leyou.es.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.leyou.es.test" />
-      <option name="MAIN_CLASS_NAME" value="com.leyou.es.test.ElasticDemo" />
-      <option name="METHOD_NAME" value="testSearch" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ElasticDemo.testSuggest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ElasticsearchDemo" />
       <extension name="coverage">
@@ -396,18 +420,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.ElasticDemo.testBulk" />
-      <item itemvalue="JUnit.ElasticDemo.testSearch" />
-      <item itemvalue="JUnit.ElasticDemo.testAggs" />
       <item itemvalue="JUnit.ElasticDemo.testNestedAggs" />
       <item itemvalue="JUnit.ElasticDemo.testSuggest" />
+      <item itemvalue="JUnit.ElasticAsyncDemo.testGetDocument" />
+      <item itemvalue="JUnit.ElasticAsyncDemo.testSearch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ElasticAsyncDemo.testSearch" />
+        <item itemvalue="JUnit.ElasticAsyncDemo.testGetDocument" />
         <item itemvalue="JUnit.ElasticDemo.testSuggest" />
         <item itemvalue="JUnit.ElasticDemo.testBulk" />
         <item itemvalue="JUnit.ElasticDemo.testNestedAggs" />
-        <item itemvalue="JUnit.ElasticDemo.testAggs" />
-        <item itemvalue="JUnit.ElasticDemo.testSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -423,19 +447,11 @@
       <updated>1607993558295</updated>
       <workItem from="1607993568790" duration="9964000" />
       <workItem from="1608043243113" duration="15764000" />
+      <workItem from="1608103629331" duration="2760000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ElasticDemo_testSearch - 2020.12.16 at 09h 38m 31s.xml">
-      <configuration name="ElasticDemo.testSearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ElasticDemo_testSearch - 2020.12.16 at 09h 39m 13s.xml">
-      <configuration name="ElasticDemo.testSearch" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ElasticDemo_testSearch - 2020.12.16 at 09h 51m 28s.xml">
-      <configuration name="ElasticDemo.testSearch" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ElasticDemo_testSearch - 2020.12.16 at 09h 59m 32s.xml">
       <configuration name="ElasticDemo.testSearch" configurationId="JUnit" />
     </history-entry>
@@ -457,24 +473,33 @@
     <history-entry file="ElasticDemo_testSuggest - 2020.12.16 at 14h 57m 18s.xml">
       <configuration name="ElasticDemo.testSuggest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ElasticAsyncDemo_testGetDocument - 2020.12.16 at 15h 52m 26s.xml">
+      <configuration name="ElasticAsyncDemo.testGetDocument" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElasticAsyncDemo_testSearch - 2020.12.16 at 16h 09m 44s.xml">
+      <configuration name="ElasticAsyncDemo.testSearch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElasticAsyncDemo_testSearch - 2020.12.16 at 16h 10m 47s.xml">
+      <configuration name="ElasticAsyncDemo.testSearch" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25728000" />
+    <option name="totallyTimeSpent" value="28488000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1093" height="693" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08599034" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33816424" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3283859" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4025974" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.020446097" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -485,6 +510,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3283859" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.38454106" />
@@ -567,10 +593,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/leyou/es/test/ElasticDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="955" column="9" lean-forward="true" selection-start-line="955" selection-start-column="9" selection-end-line="955" selection-end-column="9" />
+        <state relative-caret-position="-1186">
+          <caret line="366" column="9" lean-forward="true" selection-start-line="228" selection-start-column="4" selection-end-line="366" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/leyou/es/test/ElasticAsyncDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="e#3720#3721#0" expanded="true" />
+            <element signature="e#3771#3772#0" expanded="true" />
+            <element signature="e#5467#5468#0" expanded="true" />
+            <element signature="e#5518#5519#0" expanded="true" />
           </folding>
         </state>
       </provider>
